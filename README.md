@@ -23,7 +23,7 @@ This Power BI dashboard analyzes sales and profit performance from 2014 to 2017.
 Profit Margin:
 ```DAX
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
-
+```
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](dashboard.preview.jpg)
